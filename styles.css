@@ -1,1 +1,16 @@
-
+body{
+  background-color:pink;
+}
+#para1{
+  color:red;
+}
+#para2{
+  font-size:100px;
+}
+#para3{
+  background-color:cyan;
+}
+#para4{
+  font-family:Console;
+  font-size:200ox;
+}
